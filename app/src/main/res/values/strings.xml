@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Phone Grouping TTS</string>
+
+    <string name="main_title">Phone Grouping TTS</string>
+    <string name="main_description">Bu ilova RHVoice orqali telefon raqamlarini va bitta harflarni to\'g\'ri talaffuz bilan o\'qiydigan qo\'shimcha (proxy) nutq mexanizmi. To\'liq ishlashi uchun uni tizimning standart nutqni sintez qilish (Text-to-Speech) mexanizmi sifatida tanlash kerak.</string>
+
+    <string name="status_checking">Holat tekshirilmoqda…</string>
+    <string name="status_is_default">✓ Bu ilova hozir standart nutq mexanizmi qilib tanlangan.</string>
+    <string name="status_not_default">✗ Bu ilova hali standart nutq mexanizmi qilib tanlanmagan.</string>
+
+    <string name="btn_open_tts_settings">Standart nutq mexanizmi qilib tanlash</string>
+    <string name="btn_check_rhvoice">RHVoice ilovasini tekshirish</string>
+
+    <string name="dialog_title">Standart nutq mexanizmini o\'rnatish</string>
+    <string name="dialog_message">Ilova to\'g\'ri ishlashi uchun uni tizim sozlamalaridan standart nutq mexanizmi (Text-to-Speech) qilib tanlashingiz kerak. Hozir sozlamalarni ochamizmi?</string>
+    <string name="dialog_positive">Ha, ochish</string>
+    <string name="dialog_negative">Keyinroq</string>
+
+    <string name="rhvoice_missing_title">RHVoice topilmadi</string>
+    <string name="rhvoice_missing_message">Bu ilova ovozni o\'zi yaratmaydi - u faqat matnni tayyorlab, RHVoice ilovasiga uzatadi. Iltimos, avval RHVoice ilovasini o\'rnating va unda kerakli ovoz paketlarini (o\'zbek, rus) yuklab oling.</string>
+    <string name="rhvoice_missing_ok">Tushunarli</string>
+
+    <string name="toast_no_tts_settings">Qurilmangizda nutq sozlamalari topilmadi</string>
+</resources>
